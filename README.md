@@ -25,7 +25,8 @@ Managing daily expenses can be tricky, so I built **TrackViz** to make tracking 
 
 ## 📥 Installation  
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Arpita-Mishra-wq/TrackViz-Expense-Tracker.git
-   cd TrackViz-Expense-Tracker
+```bash
+git clone https://github.com/your-username/TrackViz.git
+cd TrackViz
+pip install -r requirements.txt
+streamlit run app.py
